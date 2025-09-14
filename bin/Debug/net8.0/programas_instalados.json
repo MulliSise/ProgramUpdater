@@ -1,0 +1,510 @@
+[
+  {
+    "Name": "Git",
+    "Version": "2.51.0"
+  },
+  {
+    "Name": "Microsoft 365 Apps para Grandes Empresas - pt-pt",
+    "Version": "16.0.19127.20192"
+  },
+  {
+    "Name": "Microsoft OneDrive",
+    "Version": "25.159.0817.0003"
+  },
+  {
+    "Name": "OpenSCAD (remove only)",
+    "Version": "2021.01"
+  },
+  {
+    "Name": "Proton VPN",
+    "Version": "4.2.2"
+  },
+  {
+    "Name": "Riot Vanguard",
+    "Version": "Desconhecida"
+  },
+  {
+    "Name": "Counter-Strike 2",
+    "Version": "Desconhecida"
+  },
+  {
+    "Name": "TeamViewer",
+    "Version": "15.68.6"
+  },
+  {
+    "Name": "Unity 6000.1.5f1",
+    "Version": "6000.1.5f1"
+  },
+  {
+    "Name": "Unity Hub 3.13.0",
+    "Version": "3.13.0"
+  },
+  {
+    "Name": "Python 3.13.5 Documentation (64-bit)",
+    "Version": "3.13.5150.0"
+  },
+  {
+    "Name": "Microsoft .NET Runtime - 8.0.16 (x64)",
+    "Version": "64.64.32758"
+  },
+  {
+    "Name": "Microsoft ASP.NET Core 9.0.8 Shared Framework (x64)",
+    "Version": "9.0.8.25368"
+  },
+  {
+    "Name": "Windows SDK DirectX x64 Remote",
+    "Version": "10.1.26100.3916"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)",
+    "Version": "72.0.37563"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)",
+    "Version": "72.48.37361"
+  },
+  {
+    "Name": "Microsoft ASP.NET Core 9.0.5 Shared Framework (x64)",
+    "Version": "9.0.5.25229"
+  },
+  {
+    "Name": "Microsoft ASP.NET Core 8.0.16 Targeting Pack (x64)",
+    "Version": "8.0.16.25216"
+  },
+  {
+    "Name": "DiagnosticsHub_CollectionService",
+    "Version": "17.12.35318"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)",
+    "Version": "72.0.32761"
+  },
+  {
+    "Name": "Microsoft .NET AppHost Pack - 9.0.8 (x64)",
+    "Version": "72.32.37563"
+  },
+  {
+    "Name": "Microsoft ASP.NET Core 9.0.8 Targeting Pack (x64)",
+    "Version": "9.0.8.25368"
+  },
+  {
+    "Name": "Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64)",
+    "Version": "15.0.9617"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)",
+    "Version": "72.48.37361"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)",
+    "Version": "72.0.32761"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)",
+    "Version": "72.48.32705"
+  },
+  {
+    "Name": "Microsoft Visual C\u002B\u002B 2010  x64 Redistributable - 10.0.40219",
+    "Version": "10.0.40219"
+  },
+  {
+    "Name": "Microsoft .NET AppHost Pack - 9.0.5 (x64)",
+    "Version": "72.20.32761"
+  },
+  {
+    "Name": "Microsoft Update Health Tools",
+    "Version": "3.74.0.0"
+  },
+  {
+    "Name": "Python 3.13.5 pip Bootstrap (64-bit)",
+    "Version": "3.13.5150.0"
+  },
+  {
+    "Name": "Microsoft .NET AppHost Pack - 9.0.8 (x64_x86)",
+    "Version": "72.32.37563"
+  },
+  {
+    "Name": "Microsoft .NET Host FX Resolver - 9.0.5 (x64)",
+    "Version": "72.20.32761"
+  },
+  {
+    "Name": "Microsoft .NET Targeting Pack - 9.0.8 (x64)",
+    "Version": "72.32.37563"
+  },
+  {
+    "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.5 (x64)",
+    "Version": "72.20.32770"
+  },
+  {
+    "Name": "Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)",
+    "Version": "64.136.23253"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)",
+    "Version": "72.48.37361"
+  },
+  {
+    "Name": "Universal CRT Tools x64",
+    "Version": "10.1.26100.3916"
+  },
+  {
+    "Name": "Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64)",
+    "Version": "9.0.0"
+  },
+  {
+    "Name": "vs_communityx64msi",
+    "Version": "17.14.36025"
+  },
+  {
+    "Name": "Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64)",
+    "Version": "18.0.9617"
+  },
+  {
+    "Name": "Microsoft .NET Runtime - 9.0.5 (x64)",
+    "Version": "72.20.32761"
+  },
+  {
+    "Name": "Python 3.13.5 Executables (64-bit)",
+    "Version": "3.13.5150.0"
+  },
+  {
+    "Name": "Microsoft .NET Host FX Resolver - 9.0.8 (x64)",
+    "Version": "72.32.37563"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)",
+    "Version": "72.48.32705"
+  },
+  {
+    "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Minimum Runtime - 14.44.35211",
+    "Version": "14.44.35211"
+  },
+  {
+    "Name": "Microsoft .NET Host - 9.0.8 (x64)",
+    "Version": "72.32.37563"
+  },
+  {
+    "Name": "Microsoft Windows Desktop Runtime - 9.0.5 (x64)",
+    "Version": "72.20.32770"
+  },
+  {
+    "Name": "Microsoft .NET 9.0 Templates 9.0.304 (x64)",
+    "Version": "36.11.46995"
+  },
+  {
+    "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.8 (x64)",
+    "Version": "72.32.37601"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)",
+    "Version": "72.48.32705"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)",
+    "Version": "72.48.32705"
+  },
+  {
+    "Name": "Application Verifier x64 External Package (DesktopEditions)",
+    "Version": "10.1.26100.3916"
+  },
+  {
+    "Name": "vs_devenx64vmsi",
+    "Version": "17.14.36015"
+  },
+  {
+    "Name": "vs_Graphics_Singletonx64",
+    "Version": "17.14.36015"
+  },
+  {
+    "Name": "Microsoft System CLR Types para SQL Server 2019",
+    "Version": "15.0.2000.5"
+  },
+  {
+    "Name": "Proton Drive",
+    "Version": "1.7.6"
+  },
+  {
+    "Name": "Windows App Certification Kit Native Components",
+    "Version": "10.1.26100.3916"
+  },
+  {
+    "Name": "Node.js",
+    "Version": "22.16.0"
+  },
+  {
+    "Name": "VS JIT Debugger",
+    "Version": "17.0.157.0"
+  },
+  {
+    "Name": "icecap_collection_x64",
+    "Version": "17.14.36015"
+  },
+  {
+    "Name": "Microsoft Visual Studio Installer",
+    "Version": "3.14.2084.208"
+  },
+  {
+    "Name": "Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64)",
+    "Version": "18.0.9617"
+  },
+  {
+    "Name": "Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64)",
+    "Version": "35.0.7"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)",
+    "Version": "72.0.37563"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64)",
+    "Version": "72.0.37563"
+  },
+  {
+    "Name": "Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64)",
+    "Version": "18.4.9288"
+  },
+  {
+    "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Additional Runtime - 14.44.35211",
+    "Version": "14.44.35211"
+  },
+  {
+    "Name": "Microsoft Windows Desktop Runtime - 9.0.8 (x64)",
+    "Version": "72.32.37601"
+  },
+  {
+    "Name": "Microsoft .NET AppHost Pack - 9.0.5 (x64_arm64)",
+    "Version": "72.20.32761"
+  },
+  {
+    "Name": "vs_minshellx64msi",
+    "Version": "17.14.36015"
+  },
+  {
+    "Name": "Office 16 Click-to-Run Licensing Component",
+    "Version": "16.0.19029.20208"
+  },
+  {
+    "Name": "Office 16 Click-to-Run Extensibility Component",
+    "Version": "16.0.19127.20154"
+  },
+  {
+    "Name": "Microsoft Visual C\u002B\u002B 2013 x64 Additional Runtime - 12.0.21005",
+    "Version": "12.0.21005"
+  },
+  {
+    "Name": "Blender",
+    "Version": "4.4.1"
+  },
+  {
+    "Name": "Application Verifier x64 External Package (OnecoreUAP)",
+    "Version": "10.1.26100.3916"
+  },
+  {
+    "Name": "Python 3.13.5 Core Interpreter (64-bit)",
+    "Version": "3.13.5150.0"
+  },
+  {
+    "Name": "Microsoft .NET Toolset 9.0.304 (x64)",
+    "Version": "36.9.46995"
+  },
+  {
+    "Name": "Microsoft Windows Desktop Targeting Pack - 8.0.16 (x64)",
+    "Version": "64.64.32786"
+  },
+  {
+    "Name": "Microsoft .NET AppHost Pack - 9.0.8 (x64_arm64)",
+    "Version": "72.32.37563"
+  },
+  {
+    "Name": "Python 3.13.5 Test Suite (64-bit)",
+    "Version": "3.13.5150.0"
+  },
+  {
+    "Name": "Microsoft .NET 9.0 Templates 9.0.300 (x64)",
+    "Version": "36.9.51766"
+  },
+  {
+    "Name": "Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64)",
+    "Version": "18.4.9288"
+  },
+  {
+    "Name": "Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)",
+    "Version": "24.0.28113"
+  },
+  {
+    "Name": "Microsoft Visual C\u002B\u002B 2013 x64 Minimum Runtime - 12.0.21005",
+    "Version": "12.0.21005"
+  },
+  {
+    "Name": "Microsoft Windows Desktop Runtime - 8.0.16 (x64)",
+    "Version": "64.64.32786"
+  },
+  {
+    "Name": "Microsoft .NET Targeting Pack - 8.0.16 (x64)",
+    "Version": "64.64.32758"
+  },
+  {
+    "Name": "Python 3.13.5 Tcl/Tk Support (64-bit)",
+    "Version": "3.13.5150.0"
+  },
+  {
+    "Name": "Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64)",
+    "Version": "18.4.9288"
+  },
+  {
+    "Name": "Microsoft ASP.NET Core 8.0.16 Shared Framework (x64)",
+    "Version": "8.0.16.25216"
+  },
+  {
+    "Name": "NVIDIA Controlador gr\u00E1fico 572.16",
+    "Version": "572.16"
+  },
+  {
+    "Name": "NVIDIA Install Application",
+    "Version": "2.1002.425.0"
+  },
+  {
+    "Name": "Python 3.13.5 Development Libraries (64-bit)",
+    "Version": "3.13.5150.0"
+  },
+  {
+    "Name": "vs_minshellinteropx64msi",
+    "Version": "17.14.36015"
+  },
+  {
+    "Name": "Update for x64-based Windows Systems (KB5001716)",
+    "Version": "8.94.0.0"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)",
+    "Version": "72.0.32761"
+  },
+  {
+    "Name": "Microsoft .NET AppHost Pack - 8.0.16 (x64_arm64)",
+    "Version": "64.64.32758"
+  },
+  {
+    "Name": "Microsoft .NET AppHost Pack - 8.0.16 (x64_x86)",
+    "Version": "64.64.32758"
+  },
+  {
+    "Name": "Python 3.13.5 Standard Library (64-bit)",
+    "Version": "3.13.5150.0"
+  },
+  {
+    "Name": "Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64)",
+    "Version": "18.0.9617"
+  },
+  {
+    "Name": "Microsoft .NET Toolset 9.0.300 (x64)",
+    "Version": "36.9.35382"
+  },
+  {
+    "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Debug Runtime - 14.44.35208",
+    "Version": "14.44.35208"
+  },
+  {
+    "Name": "Python 3.13.5 Add to Path (64-bit)",
+    "Version": "3.13.5150.0"
+  },
+  {
+    "Name": "Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64)",
+    "Version": "9.0.51"
+  },
+  {
+    "Name": "Microsoft .NET Targeting Pack - 9.0.5 (x64)",
+    "Version": "72.20.32761"
+  },
+  {
+    "Name": "Microsoft .NET AppHost Pack - 9.0.5 (x64_x86)",
+    "Version": "72.20.32761"
+  },
+  {
+    "Name": "Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64)",
+    "Version": "35.0.61"
+  },
+  {
+    "Name": "Microsoft .NET 8.0 Templates 8.0.409 (x64)",
+    "Version": "32.13.31980"
+  },
+  {
+    "Name": "Microsoft ASP.NET Core 9.0.5 Targeting Pack (x64)",
+    "Version": "9.0.5.25229"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)",
+    "Version": "72.0.37563"
+  },
+  {
+    "Name": "Microsoft .NET AppHost Pack - 8.0.16 (x64)",
+    "Version": "64.64.32758"
+  },
+  {
+    "Name": "Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64)",
+    "Version": "15.4.9288"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64)",
+    "Version": "72.0.32761"
+  },
+  {
+    "Name": "VS Script Debugging Common",
+    "Version": "17.0.157.0"
+  },
+  {
+    "Name": "IntelliTraceProfilerProxy",
+    "Version": "15.0.21225.01"
+  },
+  {
+    "Name": "Microsoft .NET Runtime - 9.0.8 (x64)",
+    "Version": "72.32.37563"
+  },
+  {
+    "Name": "Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)",
+    "Version": "72.48.37361"
+  },
+  {
+    "Name": "Microsoft .NET SDK 9.0.300 (x64) from Visual Studio",
+    "Version": "9.3.25.25206"
+  },
+  {
+    "Name": "Tenorshare 4DDiG 10.5.4.1",
+    "Version": "10.5.4.1"
+  },
+  {
+    "Name": "Discord",
+    "Version": "1.0.9168"
+  },
+  {
+    "Name": "FACEIT",
+    "Version": "2.1.53"
+  },
+  {
+    "Name": "Medal",
+    "Version": "4.2746.0"
+  },
+  {
+    "Name": "Porofessor.gg",
+    "Version": "2.10.19"
+  },
+  {
+    "Name": "League of Legends",
+    "Version": "Desconhecida"
+  },
+  {
+    "Name": "Riot Client ",
+    "Version": "Desconhecida"
+  },
+  {
+    "Name": "Spotify",
+    "Version": "1.2.72.438.g8c88c31c"
+  },
+  {
+    "Name": "Python 3.13.5 (64-bit)",
+    "Version": "3.13.5150.0"
+  },
+  {
+    "Name": "Proton Drive",
+    "Version": "1.7.6"
+  }
+]

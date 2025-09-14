@@ -1,0 +1,14 @@
+D:\C#\ProgramCheck\bin\Debug\net8.0\ProgramCheck.exe
+D:\C#\ProgramCheck\bin\Debug\net8.0\ProgramCheck.deps.json
+D:\C#\ProgramCheck\bin\Debug\net8.0\ProgramCheck.runtimeconfig.json
+D:\C#\ProgramCheck\bin\Debug\net8.0\ProgramCheck.dll
+D:\C#\ProgramCheck\bin\Debug\net8.0\ProgramCheck.pdb
+D:\C#\ProgramCheck\obj\Debug\net8.0\ProgramCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProgramCheck\obj\Debug\net8.0\ProgramCheck.AssemblyInfoInputs.cache
+D:\C#\ProgramCheck\obj\Debug\net8.0\ProgramCheck.AssemblyInfo.cs
+D:\C#\ProgramCheck\obj\Debug\net8.0\ProgramCheck.csproj.CoreCompileInputs.cache
+D:\C#\ProgramCheck\obj\Debug\net8.0\ProgramCheck.dll
+D:\C#\ProgramCheck\obj\Debug\net8.0\refint\ProgramCheck.dll
+D:\C#\ProgramCheck\obj\Debug\net8.0\ProgramCheck.pdb
+D:\C#\ProgramCheck\obj\Debug\net8.0\ProgramCheck.genruntimeconfig.cache
+D:\C#\ProgramCheck\obj\Debug\net8.0\ref\ProgramCheck.dll
